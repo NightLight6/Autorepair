@@ -47,4 +47,7 @@ f3f390bc-e9eb-4319-b40a-3901458b1462
 {3,"1CV8",5},
 {5,34d7d2ad-bf02-413d-8750-c2f030290b5e,"ОбщаяФорма.ГлавнаяСтраницаАвтосервиса",11},
 {4,"_$InfoBase$_.ConfigExtensionUpdate",25},
-{4,"_$InfoBase$_.DBConfigExtensionUpdate",26}
+{4,"_$InfoBase$_.DBConfigExtensionUpdate",26},
+{5,d4528a51-42ef-41e2-851a-76f4c16d08ec,"РегистрСведений.ЗаписьМастеров",12},
+{4,"_$InfoBase$_.RestoreError",27},
+{5,4641c2f2-5b6f-486c-b98e-a8e4d1a5fb62,"Отчет.СервиснаяКнижка",13}
